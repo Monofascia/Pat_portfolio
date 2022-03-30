@@ -1,0 +1,150 @@
+---
+title: "Analisi di regressione sul dataset Film"
+author: "E.Chiola & P.Iezzi"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+# Ovreview dei dati
+
+
+```{r}
+library(readr)
+train1<-read_delim("C:/Users/Patrizio/Desktop/TUTTO/Ud'A/CLEBA/DATA SCIENCE/Primo progetto-Data Science/movies_metadata.csv",";", escape_double = FALSE, col_types = cols(title = col_skip()), trim_ws = TRUE)
+str(train1)
+attach(train1)
+```
+
+
+```{r} 
+#scaliamo a base milionaria
+train1[,1]<-train1$budget/1000000
+train1[,2]<-train1$popularity/1000000
+train1[,3]<-train1$revenue/1000000
+View(train1)
+```
+
+```{r}
+#summary 
+summary(train1)
+```
+
+```{r}  
+#correlazione
+cor(train1[,c(1:5)])
+```
+
+
+```{r}
+# plot numeriche
+plot(train1[c(1,2,3,4,5)])
+```
+
+```{r}
+# regressioni
+OLS<-lm(revenue~budget)
+summary(OLS)
+
+```
+
+```{r}
+# regressio
+OLS1<-lm(revenue~popularity)
+summary(OLS1)
+```
+
+```{r}
+#regressione
+OLS2<-lm(revenue~runtime)
+summary(OLS2)
+```
+
+```{r}
+#regressione
+OLS3<-lm(revenue~vote_average)
+summary(OLS3)
+
+```
+
+```{r}
+#dummy
+OLS_Dummy<-lm(revenue~original_language)
+summary(OLS_Dummy)
+```
+
+```{r}
+#Multiplo con tutto
+OLS_Multiple<-lm(revenue~., data = train1)
+summary(OLS_Multiple)
+confint(OLS_Multiple)
+
+```
+
+```{r}
+#multiplo senza non significativi
+OLS_Multiple2<-lm(revenue~. -original_language, data = train1)
+summary(OLS_Multiple2)
+confint(OLS_Multiple2)
+```
+
+
+```{r}
+#mostriamo
+par(mfrow=c(2,2))
+plot(OLS_Multiple2)
+```
+- Nel primo grafico si osserva una variabilità degli errori non costant.
+- Il Q-Q Plot mostra una dubbia normalità degli errori.
+- Nel terzo grafico si osserva che la distribuzione dei residui non è costante e si individuano alcuni valori anomali.
+- Nel grafico che mostra i residui standardizzati rispetto ai punti di leva si evidenziano 3 outliers di cui 2 ad alta leva.
+
+
+```{r}
+#eliminiamo gli outliers
+no_outliers<-lm(data = train1[c(-1949,-293,-278,-635),], revenue~. -original_language)
+summary(no_outliers)
+confint(no_outliers)
+```
+
+
+```{r}
+AIC(OLS_Multiple) #con tutte le variabili
+AIC(OLS_Multiple2) #senza original_language
+AIC(no_outliers) #senza outliers
+
+```
+
+```{r} 
+#mostriamo il plot della regressione definitiva
+par(mfrow=c(2,2))
+plot(no_outliers)
+```
+
+
+
+```{r}
+#jarque bera test
+library(tseries)
+jarque.bera.test(residuals(no_outliers))
+```
+
+
+```{r}
+#breush pagan
+library(lmtest)
+bptest(no_outliers, studentize = FALSE)
+
+```
+
+
+```{r}
+#durbin watson
+dwtest(no_outliers, alternative = c("two.sided"))
+
+```
+Significa che il tst è significativo e quindi non possiamo escludere l'autocorrelazione dei residui
+
+
+
+
