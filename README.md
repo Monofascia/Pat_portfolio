@@ -6,3 +6,6 @@ They're done with **R** and **Phyton**
 * Created a tool to estimate revenue for movies  
 * Dataset got from Kaggle
 * Selected the best variables for prediction and tested OLS with Jarque Bera, Breusch Pagan and Durbin Watson  
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Pat_portfolio](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)
