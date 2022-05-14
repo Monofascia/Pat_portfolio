@@ -1,7 +1,7 @@
 # Patrizio Portfolio
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**     
-## Project 2: Logistic regressions  
+## [Project 2: Logistic regression](https://github.com/Monofascia/logistic)  
 :heavy_check_mark: **R**  
 * 
 ## [Project 1: Linear regression models](https://github.com/Monofascia/linear-regression)
