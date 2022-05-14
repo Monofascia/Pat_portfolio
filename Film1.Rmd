@@ -1,3 +1,5 @@
+# TO OPEN ON RSTUDIO
+
 ---
 title: "Analisi di regressione sul dataset Film"
 author: "E.Chiola & P.Iezzi"
