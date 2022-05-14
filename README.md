@@ -4,7 +4,7 @@ They're done with **R** and **Phyton**
 ## Project 2: Logistic regressions  
 :heavy_check_mark: **R**  
 * 
-## [Project 1: Linear regression models]()
+## [Project 1: Linear regression models](https://github.com/Monofascia/linear-regression)
 :heavy_check_mark: **R** (it was my first time with R)   
 * Created a tool to estimate revenue for movies  
 * Dataset got from Kaggle
