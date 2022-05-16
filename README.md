@@ -2,6 +2,11 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Project 8: Classification](https://github.com/Monofascia/classification)  
+:heavy_check_mark: **R**  
+* A tool to calculate the probability of fire in Algerian forest.
+* Machine learning models used are: LDA, SVM linear and radial, KNN, random forest, rpart  
+  
 ## [Project 7: Spatial analysis](https://github.com/Monofascia/spatial-analysis)  
 :heavy_check_mark: **R**  
 * A study about O3 pollution in the USA (O3 pollution.pdf).
