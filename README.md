@@ -70,7 +70,4 @@ They're done with **R** and **Phyton**
 
 
 
-# Trying
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-![Pat_portfolio](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)  
-![Pat_portfolio](https://github.githubassets.com/images/icons/emoji/unicode/2714.png?v8)
+
