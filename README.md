@@ -67,7 +67,7 @@ They're done with **R** and **Phyton**
 * Selected the best variables for prediction and tested OLS with Jarque Bera, Breusch Pagan and Durbin Watson  
   
   
-  
+ 
 *That's all for now.*  
   
 **Bye 👋**
