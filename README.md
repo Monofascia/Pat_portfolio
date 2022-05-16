@@ -2,6 +2,11 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Anomaly detection](https://github.com/Monofascia/anomaly-detection)  
+:heavy_check_mark: **R**  
+* Work project about error detections in annual reporting. 
+* Only R script due to NDA.
+  
 ## [Excercises on Web Scriaping] (https://github.com/Monofascia/webscraping)
 :heavy_check_mark: **R**  
 * Self-taught excersises for work projects. In the link above there are some examples used to show to clients  
