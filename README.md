@@ -2,6 +2,11 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Project 7: Spatial analysis](https://github.com/Monofascia/spatial-analysis)  
+:heavy_check_mark: **R**  
+* A study about O3 pollution in the USA (O3 pollution.pdf).
+* Kriging method 
+  
 ## [Project 6: Regularized regression](https://github.com/Monofascia/regularized-regressions)  
 :heavy_check_mark: **R**  
 * This project is developed on three different problems:  
