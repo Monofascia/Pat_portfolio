@@ -3,6 +3,7 @@ This GitHub portfolio gather some of my school and work projects.
 They're done with **R** and **Phyton**  
   
 ## [Project 4: Principal component analysis](https://github.com/Monofascia/pca)  
+:heavy_check_mark: **R**  
 * This is the last project for first semester Data science course. Here it's executed a really simple PCA for economics data.  
 * Actually I've learned new graphics and new libraries for a better visual info and anlysis.  
 * This project was useful to learn basic analytic skills for following cluster models (in other courses)  
