@@ -66,7 +66,10 @@ They're done with **R** and **Phyton**
 * Dataset got from Kaggle
 * Selected the best variables for prediction and tested OLS with Jarque Bera, Breusch Pagan and Durbin Watson  
   
-
+  
+  
+**Thank you,
+Bye 👋**
 
 
 
