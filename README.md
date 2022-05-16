@@ -7,7 +7,7 @@ They're done with **R** and **Phyton**
 * Work project about error detections in annual reporting. 
 * Only R script due to NDA.
   
-## [Excercises on Web Scriaping] (https://github.com/Monofascia/webscraping)
+## [Excercises on Web Scriaping](https://github.com/Monofascia/webscraping)
 :heavy_check_mark: **R**  
 * Self-taught excersises for work projects. In the link above there are some examples used to show to clients  
   
