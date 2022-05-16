@@ -11,7 +11,7 @@ They're done with **R** and **Phyton**
 * It's a full-immersion and deep-understanding of Ridge and Lasso alghoritm functions.  
      
 ## [Project 5: Neural Network](https://github.com/Monofascia/NeuralNetwork)  
-:heavy_check_mark: **PYTHON**  
+:snake: **PYTHON**  
 * This was my first time with Python and my first Neural Network  
 * For a better view go to this link: [Google COLAB](https://colab.research.google.com/drive/1cAMY32NpwR8oDdzj51sQlRflLWdI6feO?usp=sharing)  
 * It's everything explained there so just enjoy the reading!  
