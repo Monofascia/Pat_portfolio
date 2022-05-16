@@ -1,4 +1,4 @@
-# Patrizio Portfolio
+# Portfolio progetti
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**     
 ## [Project 2: Logistic regression](https://github.com/Monofascia/logistic)  
@@ -6,6 +6,7 @@ They're done with **R** and **Phyton**
 * Created a model to estimate a purchase by social media ads  
 * Dummy analysis on gender 
 * Confusion matrix  
+  
 ## [Project 1: Linear regression models](https://github.com/Monofascia/linear-regression)
 :heavy_check_mark: **R** (it was my first time)   
 * Created a model to estimate revenue for movies  
