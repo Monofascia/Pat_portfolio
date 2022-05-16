@@ -2,6 +2,10 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Excercises on Web Scriaping] (https://github.com/Monofascia/webscraping)
+:heavy_check_mark: **R**  
+* Self-taught excersises for work projects. In the link above there are some examples used to show to clients  
+  
 ## [Project 8: Classification](https://github.com/Monofascia/classification)  
 :heavy_check_mark: **R**  
 * A tool to calculate the probability of fire in Algerian forest.
