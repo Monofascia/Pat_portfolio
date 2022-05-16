@@ -2,6 +2,14 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Project 6: Regularized regression](https://github.com/Monofascia/regularized-regressions)  
+:heavy_check_mark: **R**  
+* This project is developed on three different problems:  
+  * Created a tool to predict a prostate cancer by using RIDGE and LASSO regressions (PROBLEMA 1);  
+  * Created a fake dataset to understand how RIDGE and LASSO works (PROBLEMA 2);  
+  * With another fake dataset is developed a Shooting Alghoritm to see how LASSO works (PROBLEMA 3)  
+* It's a full-immersion and deep-understanding of Ridge and Lasso alghoritm functions.  
+     
 ## [Project 5: Neural Network](https://github.com/Monofascia/NeuralNetwork)  
 :heavy_check_mark: **PYTHON**  
 * This was my first time with Python and my first Neural Network  
