@@ -2,6 +2,11 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Project 4: Principal component analysis](https://github.com/Monofascia/pca)  
+* This is the last project for first semester Data science course. Here it's executed a really simple PCA for economics data.  
+* I've learned new graphics and new library for a better visual info.  
+* This project was useful to learn basic analytic skills for following cluter models (in other courses)  
+  
 ## [Project 3: Spatial regression](https://github.com/Monofascia/reg_dati_spaziali)  
 :heavy_check_mark: **R**  
 * Tested the influence of neighbourhood in real estate value  
