@@ -1,6 +1,8 @@
 # Portfolio progetti
 This GitHub portfolio gather some of my school and work projects.  
-They're done with **R** and **Phyton**     
+They're done with **R** and **Phyton**  
+  
+## [Project 3:]()  
 ## [Project 2: Logistic regression](https://github.com/Monofascia/logistic)  
 :heavy_check_mark: **R**  
 * Created a model to estimate a purchase by social media ads  
