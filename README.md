@@ -2,6 +2,12 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Project 5: Neural Network](https://github.com/Monofascia/NeuralNetwork)  
+:heavy_check_mark: **PYTHON**  
+* This was my first time with Python and my first Neural Network  
+* For a better view go to this link: [Google COLAB](https://colab.research.google.com/drive/1cAMY32NpwR8oDdzj51sQlRflLWdI6feO?usp=sharing)  
+* It's everything explained there so just enjoy the reading!  
+  
 ## [Project 4: Principal component analysis](https://github.com/Monofascia/pca)  
 :heavy_check_mark: **R**  
 * This is the last project for first semester Data science course. Here it's executed a really simple PCA for economics data.  
