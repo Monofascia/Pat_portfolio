@@ -68,8 +68,9 @@ They're done with **R** and **Phyton**
   
   
   
-**Thank you,
-Bye 👋**
+*That's all for now.*  
+  
+**Bye 👋**
 
 
 
