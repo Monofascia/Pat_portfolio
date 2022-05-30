@@ -9,16 +9,16 @@ They're done with **R** and **Phyton**
 * Tried a presentation mode with UnicornCompanies.slides, a built-in function of jupyter notebook
   
 ## [Anomaly detection](https://github.com/Monofascia/anomaly-detection)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * Work project about error detections in annual reporting. 
 * Only R script due to NDA.
   
 ## [Excercises on Web Scraping](https://github.com/Monofascia/webscraping)
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * Self-taught excersises for work projects. In the link above there are some examples used to show to clients  
   
 ## [Project 8: Classification](https://github.com/Monofascia/classification)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * A tool to calculate the probability of fire in Algerian forest.
 * Machine learning models used are: LDA, SVM linear and radial, KNN, random forest, rpart  
   
