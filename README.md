@@ -2,6 +2,12 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [Data Manipulation](https://github.com/Monofascia/UnicornCompanies)  
+:snake: **PYTHON**  
+* Data Manipulation and Analysis project
+* Dataset from Kaggle about billionaire companies all over the world
+* Tried a presentation mode with UnicornCompanies.slides, a built-in function of jupyter notebook
+  
 ## [Anomaly detection](https://github.com/Monofascia/anomaly-detection)  
 :heavy_check_mark: **R**  
 * Work project about error detections in annual reporting. 
