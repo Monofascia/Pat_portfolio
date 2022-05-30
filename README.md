@@ -23,12 +23,12 @@ They're done with **R** and **Phyton**
 * Machine learning models used are: LDA, SVM linear and radial, KNN, random forest, rpart  
   
 ## [Project 7: Spatial analysis](https://github.com/Monofascia/spatial-analysis)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * A study about O3 pollution in the USA (O3 pollution.pdf).
 * Kriging method 
   
 ## [Project 6: Regularized regression](https://github.com/Monofascia/regularized-regressions)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * This project is developed on three different problems:  
   * Created a tool to predict a prostate cancer by using RIDGE and LASSO regressions (PROBLEMA 1);  
   * Created a fake dataset to understand how RIDGE and LASSO works (PROBLEMA 2);  
@@ -42,13 +42,13 @@ They're done with **R** and **Phyton**
 * It's everything explained there so just enjoy the reading!  
   
 ## [Project 4: Principal component analysis](https://github.com/Monofascia/pca)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * This is the last project for first semester Data science course. Here it's executed a really simple PCA for economics data.  
 * Actually I've learned new graphics and new libraries for a better visual info and anlysis.  
 * This project was useful to learn basic analytic skills for following cluster models (in other courses)  
   
 ## [Project 3: Spatial regression](https://github.com/Monofascia/reg_dati_spaziali)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * Tested the influence of neighbourhood in real estate value  
 * Moran test, Geary, Getis-Ord, jarque-bera..  
 * Spatial autoregressive model (SAM)   
@@ -61,13 +61,13 @@ They're done with **R** and **Phyton**
 * General nesting model (GNS)  
   
 ## [Project 2: Logistic regression](https://github.com/Monofascia/logistic)  
-:heavy_check_mark: **R**  
+:chart_with_upwards_trend: **R**  
 * Created a model to estimate a purchase by social media ads  
 * Dummy analysis on gender 
 * Confusion matrix  
   
 ## [Project 1: Linear regression models](https://github.com/Monofascia/linear-regression)
-:heavy_check_mark: **R** (it was my first time)   
+:chart_with_upwards_trend: **R** (it was my first time)   
 * Created a model to estimate revenue for movies  
 * Dataset got from Kaggle
 * Selected the best variables for prediction and tested OLS with Jarque Bera, Breusch Pagan and Durbin Watson  
