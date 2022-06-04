@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
