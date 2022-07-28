@@ -2,6 +2,12 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
   
+## [My first Data Pipeline](https://github.com/Monofascia/My-first-data-pipeline)  
+:snake: **PYTHON**  
+* Really simple data pipeline
+* Took from a YouTube tutorial with some upgrades
+* Created a presentation with PowerPoint
+  
 ## [Data Manipulation](https://github.com/Monofascia/UnicornCompanies)  
 :snake: **PYTHON**  
 * Data Manipulation and Analysis project
