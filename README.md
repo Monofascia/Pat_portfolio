@@ -2,7 +2,12 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
 
-##     
+## [Anomaly detection for ANAS](https://github.com/Monofascia/ANAS_AnomalyDetection)  
+:snake: **PYTHON**  
+* Only ppt due to NDA
+* It's a small POC due to a single feature analyzed (univariate)  
+* Tried several algorithms for unsupervised and supervised learning (supervised not shown here)
+  
 ## [My first Data Pipeline](https://github.com/Monofascia/My-first-data-pipeline)  
 :snake: **PYTHON**  
 * Really simple data pipeline
