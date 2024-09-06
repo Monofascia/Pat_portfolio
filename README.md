@@ -1,7 +1,14 @@
 # Projects
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
-
+  
+## [Boolean data clustering](https://github.com/Monofascia/Boolean-Data-Clustering)  
+:snake: **PYTHON**  
+* An evolutive study (compared to what is actually shared with client)  
+* Showing capabilities of models, no deep parameters tuning  
+* High level theory explained in documentations  
+* For a more friendly read, open file word and set Navigation Pane  
+  
 ## [Anomaly detection for ANAS](https://github.com/Monofascia/ANAS_AnomalyDetection)  
 :snake: **PYTHON**  
 * Only ppt due to NDA
