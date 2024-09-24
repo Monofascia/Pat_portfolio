@@ -5,7 +5,7 @@ They're done with **R** and **Phyton**
   
 ## [Boolean data clustering2](https://github.com/Monofascia/Boolean-Data-Clustering)  
 :snake: **PYTHON**  
-* An evolutive study (compared to what is actually shared with client)  
+* An evolutive study from Boolean data clustering1  
 * Showing capabilities of models, no deep parameters tuning  
 * High level theory explained in documentations  
 * For a more friendly read, open file word and set Navigation Pane
