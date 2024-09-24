@@ -3,12 +3,19 @@ This GitHub portfolio gather some of my school and work projects.
 They're done with **R** and **Phyton**  
 [website](https://monofascia.github.io/Pat_portfolio/)
   
-## [Boolean data clustering](https://github.com/Monofascia/Boolean-Data-Clustering)  
+## [Boolean data clustering2](https://github.com/Monofascia/Boolean-Data-Clustering)  
 :snake: **PYTHON**  
 * An evolutive study (compared to what is actually shared with client)  
 * Showing capabilities of models, no deep parameters tuning  
 * High level theory explained in documentations  
-* For a more friendly read, open file word and set Navigation Pane  
+* For a more friendly read, open file word and set Navigation Pane
+  
+## [Boolean data clustering1](https://github.com/Monofascia/clustering)  
+:snake: **PYTHON**  
+* A real-life project about unsupervised learning with KMeans and others    
+* Strictly limited by client's packages versions
+* Include built-in custom functions  
+* Outputs saved in HDFS and followed by layers (polybase, analysis service) to end on Power Bi  
   
 ## [Anomaly detection for ANAS](https://github.com/Monofascia/ANAS_AnomalyDetection)  
 :snake: **PYTHON**  
