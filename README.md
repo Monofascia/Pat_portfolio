@@ -2,6 +2,13 @@
 This GitHub portfolio gather some of my school and work projects.  
 They're done with **R** and **Phyton**  
 [website](https://monofascia.github.io/Pat_portfolio/)
+
+## [ETL NiFi for performance-test on Dremio Iceberg](https://github.com/Monofascia/SimpleETL-NiFi)  
+:date: **SQL**, **BASH**, **PYTHON**  
+* A study to show potentiality of Dremio Iceberg with custom data   
+* Built a NiFi flow to download data 
+* Created container with Docker for Dremio, Nessi, MinIo, NiFi  
+* Script for json concatenation with Python  
   
 ## [Boolean data clustering2](https://github.com/Monofascia/Boolean-Data-Clustering)  
 :snake: **PYTHON**  
